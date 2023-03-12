@@ -1,0 +1,5 @@
+{
+  "input_folder": "/caminho/para/a/pasta/de/entrada",
+  "output_folder": "/caminho/para/a/pasta/de/saida",
+  "compression": 1
+}
