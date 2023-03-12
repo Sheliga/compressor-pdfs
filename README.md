@@ -1,7 +1,7 @@
 
 # Script para comprimir arquivos PDF
 
-Este é um script em Python que permite comprimir arquivos PDF de uma pasta especificada. É possível parametrizar o script utilizando um arquivo JSON externo.
+Este script permite comprimir arquivos PDF de uma pasta especificada de um parametro vindo de um arquivo JSON externo.
 
 ## Requisitos
 
